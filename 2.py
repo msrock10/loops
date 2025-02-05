@@ -1,7 +1,7 @@
-num = 1
-sum = 0
-while(num<=10):
+num = 90
+sum = 9
+while(num<=99):
     sum = sum+num
-    num = num+1
+    num = num+9
 
-print("sum of first 10 Natural numbers:" , sum)
+print("sum of first 90 Natural numbers:" , sum)
